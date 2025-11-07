@@ -41,7 +41,6 @@ export function SunsetBeachSection() {
               <div className="flex h-full items-center justify-center bg-gradient-to-br from-orange-400/20 to-pink-500/20">
                 <div className="text-center">
                   <p className="font-serif text-3xl text-white/70">[Foto do Pôr do Sol]</p>
-                  <p className="mt-4 font-sans text-sm text-white/50">Adicione sua foto especial aqui</p>
                     <img src="/img.png" alt="" className="object-contain w-full h-full" />
                 </div>
               </div>

@@ -47,7 +47,6 @@ export function FlowerFieldSection() {
         <div className="animate-fadeInUp mt-16 rounded-2xl bg-white/10 p-8 backdrop-blur-sm">
           <div className="relative aspect-[4/3] overflow-hidden rounded-xl bg-gradient-to-br from-blue-400/20 to-pink-400/20">
             <div className="flex h-full items-center justify-center">
-              <p className="font-serif text-2xl text-white/70">[Adicione sua foto aqui]</p>
             </div>
             {/* Placeholder for user's photo */}
             {/* <Image
