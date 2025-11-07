@@ -42,7 +42,6 @@ export function MainPhotoSection() {
                 <div className="flex h-full items-center justify-center bg-gradient-to-br from-pink-400/40 to-purple-500/40">
                   <div className="text-center">
                     <Heart className="mx-auto mb-4 h-16 w-16 text-white/50" />
-                    <p className="font-serif text-3xl text-white/70">[Foto Principal]</p>
                     <img src="/principal.png" alt=""/>
                   </div>
                 </div>
