@@ -114,7 +114,6 @@ export function MemoryCarouselSection() {
                   <div className="flex h-full items-center justify-center">
                     <div className="text-center">
                       <p className="font-serif text-3xl text-white/70">[{memory.placeholder}]</p>
-                      <p className="mt-4 font-sans text-sm text-white/50">Adicione sua foto aqui</p>
                       <img src={memory.image} alt="Fotos com meu amor"/>
                     </div>
                   </div>
